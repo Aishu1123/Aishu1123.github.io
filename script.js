@@ -77,7 +77,7 @@ document.getElementById("resume-button-2").onclick = () => {
   );
 };
 
-GitHubCalendar(".calendar", "kirti136", {
+GitHubCalendar(".calendar", "Aishu1123", {
   responsive: true,
   global_stats: true,
   tooltips: true,

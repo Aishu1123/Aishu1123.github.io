@@ -134,10 +134,8 @@ section .title::after {
   border-radius: 10px;
 }
 .navbar .menu li a:hover {
-  color: #a8eef3;
-  box-shadow: rgb(168, 238, 243) 0px 0px 20px -9px;
-  color: #0d1619;
-  background-color: rgb(230, 230, 230);
+  color:#ae5030;
+ 
 }
 .navbar.sticky .menu li a:hover {
   color: #0d1619;

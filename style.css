@@ -92,6 +92,8 @@ section .title::after {
   padding: 40px 0;
   font-family: "Ubuntu", sans-serif;
   transition: all 0.3s ease;
+  box-shadow: 0 0 10px #000;
+     background: #00000083;
 }
 .navbar.sticky {
   padding: 17px 0;
@@ -179,7 +181,7 @@ section .title::after {
 /* home1 section styling */
 .home1 {
   display: flex;
-  background: url("./images/banner3.jpeg") no-repeat center;
+  background: url("./images/bg.avif") no-repeat center;
   background-color: #111;
   height: 100vh;
   color: #fff;
@@ -192,28 +194,27 @@ section .title::after {
   width: 100%;
   margin: auto;
   display: flex;
+  margin-left: -150px;
   justify-content: center;
   /* padding-left: 17%; */
   /* padding-top: 10%; */
   line-height: 65px;
 }
-.home1 .max-width .row {
-  margin-right: 0;
-}
+
 .home1 .home1-content .text-1 {
   font-size: 27px;
 }
 .home1 .home1-content .text-2 {
   font-size: 60px;
   font-weight: 600;
-  margin-left: -3px;
+  /* margin-left: -3px; */
 }
 .home1 .home1-content .text-3 {
   font-size: 40px;
-  margin: 5px 0;
+  /* margin: 5px 0; */
 }
 .home1 .home1-content .text-3 span {
-  color: #a48728;
+  color:#ae5030;
   font-weight: 500;
 }
 .home1 .home1-content a {

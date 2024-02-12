@@ -100,9 +100,7 @@ section .title::after {
   background: #0d1619;
 }
 .navbar .max-width {
-  /* border: 1px solid red; */
-  /* margin-left: 18%; */
-  /* background-color: #0d1619; */
+
   display: flex;
   align-items: center;
   justify-content: space-between;

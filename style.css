@@ -131,12 +131,11 @@ section .title::after {
   padding: 10px 7px;
   border-radius: 10px;
 }
-/* .navbar .menu li a:hover {
+.navbar .menu li a:hover {
   color:#ae5030;
- 
-} */
+ }
 .navbar.sticky .menu li a:hover {
-  color: #0d1619;
+  color:#ae5030;
 }
 
 /* menu btn styling */

@@ -65,14 +65,14 @@ $(document).ready(function () {
 //change the file here
 document.getElementById("resume-button-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1vGc8B8-U6i0CcZfq_IJpOrrClGBZ1ICV/view?usp=drive_link",
+    "https://drive.google.com/file/d/1VaGny2XRXg9KuwRKZl2bf_4SmTSu1ebU/view?usp=drive_link",
     `_blank`
   );
 };
 
 document.getElementById("resume-button-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1vGc8B8-U6i0CcZfq_IJpOrrClGBZ1ICV/view?usp=drive_link",
+    "https://drive.google.com/file/d/1VaGny2XRXg9KuwRKZl2bf_4SmTSu1ebU/view?usp=drive_link",
     `_blank`
   );
 };
